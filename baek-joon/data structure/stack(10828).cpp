@@ -1,7 +1,3 @@
-//
-// Created by 우리 가족 on 2023-01-06.
-//
-
 #include<iostream>
 #include<stack>
 #include<string>
